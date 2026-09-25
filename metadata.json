@@ -1,0 +1,6 @@
+{
+  "name": "UniNaija Admin Portal - Nigerian University ERP",
+  "description": "Comprehensive Nigerian University Administration Dashboard featuring Student Enrollment, Course Management, Faculty Records, Remita School Fees, Semester Registration, and Departmental Management in Nigerian Green & White.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
